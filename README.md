@@ -1,6 +1,6 @@
 # Scalable, Axiomatic Explanations of Deep Alzheimer's Diagnosis from Heterogeneous Data
 
-[![Paper](https://img.shields.io/badge/arXiv-XX.YY-b31b1b)](https://arxiv.org/abs/XX.YY)
+[![Paper](https://img.shields.io/badge/arXiv-2107.05997-b31b1b)](https://arxiv.org/abs/2107.05997)
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 
 This repository contains the code to the paper "Scalable, Axiomatic Explanations of Deep Alzheimer's Diagnosis from Heterogeneous Data."
@@ -12,7 +12,7 @@ If you are using this code, please cite:
   author    = {P{\"{o}}lsterl, Sebastian and Aigner, Christina and Wachinger, Christian},
   booktitle = {International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
   year      = {2021},
-  url       = {https://arxiv.org/abs/XX.YY},
+  url       = {https://arxiv.org/abs/2107.05997},
 }
 ```
 
